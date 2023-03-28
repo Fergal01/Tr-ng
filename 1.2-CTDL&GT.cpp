@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//Hỗn số là  một số thập phân được biểu diễn dưới dạng một phần nguyên và một phần phân số.
 struct HonSo {
     int a, b, c;
 };
